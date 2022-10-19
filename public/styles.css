@@ -1,0 +1,45 @@
+.addmargin {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.centeralign {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.cont-otr{
+  margin: 50px;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.cont-inr{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.icons{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 27px;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-color: black;
+}
+
+
+
+.flags{
+  width: 10rem;
+  height: 5rem;
+}
